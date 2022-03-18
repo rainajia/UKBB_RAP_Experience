@@ -1,8 +1,8 @@
 # Common job errors on RAP 
 
-These are common error that may occur for a job when using the mrcepid applets (https://github.com/mrcepid-rap) on RAP.   
+These are common errors that occured when using the mrcepid applets (https://github.com/mrcepid-rap) on RAP.   
 
-| Error message | Reason for error | Notes |
+| Error message | Reasons for error | Notes |
 | ---| --- | --- |
 | **The machine running the job was terminated by the cloud provider** |  This error is due to spot interruption when using a low priority instance | There is charge for the time the job has already ran. This error is sponateous and there is nothing else the user can do about excep restart the job or change to a high priority instance |
 | **The machine running the job became unresponsive**   | This error occurs when the machine runs out of memory   | This error is not charged for the time that has ran, as DNAnexus decides that this kind of error is not due to user's fault.|
