@@ -1,3 +1,5 @@
+# This is to document the experience in working on RAP for logging the revious errors and confustions 
+
 # Common errors when running jobs on RAP                                                                                                                              
 These are common errors that may occor when using the mrcepid applets (https://github.com/mrcepid-rap) on RAP (18/03/2022 update). 
 
