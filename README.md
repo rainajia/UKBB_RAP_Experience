@@ -1,6 +1,6 @@
-# Common job errors on RAP 
+# Common errors when running jobs on RAP 
 
-These are common errors that occured when using the mrcepid applets (https://github.com/mrcepid-rap) on RAP.   
+These are common errors that may occor when using the mrcepid applets (https://github.com/mrcepid-rap) on RAP (18/03/2022 update). 
 
 | Error message | Reasons for error | Solutions/Notes |
 | ---| --- | --- |
